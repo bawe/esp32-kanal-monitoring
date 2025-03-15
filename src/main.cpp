@@ -6,7 +6,7 @@
 
 #include "config.h" // Include the configuration file - see config.example.h for an example
 
-#define DEBUG_NO_SEND
+//#define DEBUG_NO_SEND
 
 #define HOST_NAME "kanal"
 #define SERVICE_NAME "Pumpen Alarm"
